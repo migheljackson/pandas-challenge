@@ -8,6 +8,6 @@ Diminishing Returns, Spending More Does Not Equal Success:
 One seemingly counter-intuitive observation that came out of the spending range data was that student success (as measured by the overall percentage of students passing both the math and reading assessments) actually fell precipitously the more that a school spent per student.  The schools that spend the least per student had a 91% overall passing rate, while the schools that spent the most (more than $640 per student) had an abysmal 54% overall passing rate.
 
 The Bigger They Are, The Harder They Fall:
-The final observation that I made in this data set is when comparing school size to overall success rate, similar to more money equalling less success, more students also equates to less success on the math and reading assessments.  Only 58% of students at larger schools are able to pass both the math and english assessments w
+The final observation that I made in this data set is when comparing school size to overall success rate, similar to more money equalling less success, more students also equates to less success on the math and reading assessments.  Only 58% of students at larger schools are able to pass both the math and english assessments which is much lower than what we see at the medium and smaller schools, bith of which have success rates around 90%.  
 
 
